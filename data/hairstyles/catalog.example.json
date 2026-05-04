@@ -1,0 +1,643 @@
+[
+  {
+    "id": "cn_natural_side_part",
+    "name": "中式自然三七分",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn",
+      "kr"
+    ],
+    "presentation": "masculine",
+    "reference_image": "data/hairstyles/references/cn_natural_side_part/prepared.jpg",
+    "status": "vetted_reference",
+    "maintenance_level": "medium",
+    "length": "medium",
+    "bangs": "side",
+    "curl": "soft_wave",
+    "volume": "medium",
+    "side_weight": "medium",
+    "covers_forehead": false,
+    "forehead_exposure": "medium",
+    "hairline_coverage": "medium",
+    "face_length_effect": "neutral",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "low",
+    "silhouette_balance": "medium",
+    "trend_score": 0.34,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.15,
+      "face_ratio_tolerance": 0.07,
+      "forehead_to_face_ratio": 0.18,
+      "forehead_ratio_tolerance": 0.03,
+      "jaw_face_ratio": 0.81,
+      "jaw_face_ratio_tolerance": 0.05,
+      "cheek_jaw_ratio": 1.18,
+      "cheek_jaw_ratio_tolerance": 0.08,
+      "temple_skin_exposure": 0.34,
+      "temple_skin_tolerance": 0.1
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced"
+      ],
+      "forehead_profile": [
+        "balanced",
+        "compact"
+      ],
+      "recession_profile": [
+        "low"
+      ],
+      "jaw_profile": [
+        "balanced",
+        "strong"
+      ]
+    },
+    "preferred_age_groups": [
+      "adult",
+      "middle_aged",
+      "senior"
+    ],
+    "avoid_age_groups": [
+      "teen"
+    ],
+    "style_tags": [
+      "clean",
+      "natural",
+      "workplace",
+      "stable"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "square",
+      "round"
+    ],
+    "preferred_hairline": [
+      "balanced",
+      "low"
+    ],
+    "avoid_hairline": [
+      "high"
+    ]
+  },
+  {
+    "id": "cn_textured_curtain",
+    "name": "中式轻纹理八字刘海",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn",
+      "kr"
+    ],
+    "presentation": "masculine",
+    "reference_image": "data/hairstyles/references/cn_textured_curtain/prepared.jpg",
+    "status": "vetted_reference",
+    "maintenance_level": "medium",
+    "length": "medium",
+    "bangs": "curtain",
+    "curl": "soft_wave",
+    "volume": "medium",
+    "side_weight": "medium",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "high",
+    "face_length_effect": "shortens",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "high",
+    "silhouette_balance": "high",
+    "trend_score": 0.96,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.2,
+      "face_ratio_tolerance": 0.1,
+      "forehead_to_face_ratio": 0.22,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.8,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.2,
+      "cheek_jaw_ratio_tolerance": 0.09,
+      "temple_skin_exposure": 0.6,
+      "temple_skin_tolerance": 0.16
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ],
+      "upper_third_profile": [
+        "tall",
+        "balanced"
+      ]
+    },
+    "preferred_age_groups": [
+      "young_adult",
+      "adult"
+    ],
+    "avoid_age_groups": [
+      "senior"
+    ],
+    "style_tags": [
+      "natural",
+      "rejuvenating",
+      "mainstream",
+      "soft"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "oblong",
+      "heart",
+      "square"
+    ],
+    "preferred_hairline": [
+      "high",
+      "balanced"
+    ],
+    "avoid_hairline": []
+  },
+  {
+    "id": "cn_light_textured_fringe",
+    "name": "中式轻碎刘海",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn",
+      "kr"
+    ],
+    "presentation": "masculine",
+    "reference_image": "data/hairstyles/references/cn_light_textured_fringe/prepared.jpg",
+    "status": "vetted_reference",
+    "maintenance_level": "medium",
+    "length": "medium",
+    "bangs": "textured_fringe",
+    "curl": "soft_wave",
+    "volume": "medium",
+    "side_weight": "light",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "high",
+    "face_length_effect": "shortens",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "high",
+    "silhouette_balance": "high",
+    "trend_score": 0.98,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.19,
+      "face_ratio_tolerance": 0.09,
+      "forehead_to_face_ratio": 0.22,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.8,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.21,
+      "cheek_jaw_ratio_tolerance": 0.09,
+      "temple_skin_exposure": 0.62,
+      "temple_skin_tolerance": 0.16
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ],
+      "jaw_profile": [
+        "balanced",
+        "strong"
+      ]
+    },
+    "preferred_age_groups": [
+      "young_adult",
+      "adult"
+    ],
+    "avoid_age_groups": [
+      "senior"
+    ],
+    "style_tags": [
+      "rejuvenating",
+      "natural",
+      "soft",
+      "mainstream"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "square",
+      "oblong",
+      "heart"
+    ],
+    "preferred_hairline": [
+      "high",
+      "balanced"
+    ],
+    "avoid_hairline": []
+  },
+  {
+    "id": "cn_short_textured_crop",
+    "name": "中式短碎盖",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn"
+    ],
+    "presentation": "masculine",
+    "reference_image": "data/hairstyles/references/cn_short_textured_crop/prepared.jpg",
+    "status": "vetted_reference",
+    "maintenance_level": "low",
+    "length": "short",
+    "bangs": "short_fringe",
+    "curl": "straight",
+    "volume": "top",
+    "side_weight": "light",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "medium",
+    "face_length_effect": "neutral",
+    "jaw_effect": "neutral",
+    "neck_balance": "slims",
+    "temple_coverage": "high",
+    "silhouette_balance": "high",
+    "trend_score": 0.91,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.16,
+      "face_ratio_tolerance": 0.08,
+      "forehead_to_face_ratio": 0.21,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.81,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.2,
+      "cheek_jaw_ratio_tolerance": 0.1,
+      "temple_skin_exposure": 0.56,
+      "temple_skin_tolerance": 0.17
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ],
+      "jaw_profile": [
+        "balanced",
+        "strong"
+      ],
+      "lower_third_profile": [
+        "long",
+        "balanced"
+      ]
+    },
+    "preferred_age_groups": [
+      "young_adult",
+      "adult",
+      "middle_aged",
+      "senior"
+    ],
+    "avoid_age_groups": [],
+    "style_tags": [
+      "clean",
+      "fresh",
+      "natural",
+      "workplace",
+      "mainstream"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "heart",
+      "square"
+    ],
+    "preferred_hairline": [
+      "balanced",
+      "high"
+    ],
+    "avoid_hairline": []
+  },
+  {
+    "id": "cn_soft_face_framing",
+    "name": "中式柔和修饰层次",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn",
+      "kr"
+    ],
+    "presentation": "feminine",
+    "reference_image": "",
+    "status": "needs_vetted_reference",
+    "maintenance_level": "medium",
+    "length": "medium_long",
+    "bangs": "none",
+    "curl": "soft_wave",
+    "volume": "side",
+    "side_weight": "medium",
+    "covers_forehead": false,
+    "forehead_exposure": "medium",
+    "hairline_coverage": "medium",
+    "face_length_effect": "neutral",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "medium",
+    "silhouette_balance": "medium",
+    "trend_score": 0.58,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.14,
+      "face_ratio_tolerance": 0.08,
+      "forehead_to_face_ratio": 0.19,
+      "forehead_ratio_tolerance": 0.04,
+      "jaw_face_ratio": 0.79,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.19,
+      "cheek_jaw_ratio_tolerance": 0.1,
+      "temple_skin_exposure": 0.4,
+      "temple_skin_tolerance": 0.15
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced"
+      ],
+      "forehead_profile": [
+        "balanced"
+      ],
+      "recession_profile": [
+        "low",
+        "medium"
+      ]
+    },
+    "preferred_age_groups": [
+      "adult",
+      "middle_aged",
+      "senior"
+    ],
+    "avoid_age_groups": [
+      "teen"
+    ],
+    "style_tags": [
+      "natural",
+      "mature",
+      "soft",
+      "workplace"
+    ],
+    "suited_face_shapes": [
+      "round",
+      "square",
+      "oval",
+      "heart"
+    ],
+    "preferred_hairline": [
+      "balanced",
+      "low"
+    ],
+    "avoid_hairline": [
+      "high"
+    ]
+  },
+  {
+    "id": "cn_full_bangs_bob",
+    "name": "中式齐刘海短波波",
+    "origin_label": "cn_mainstream",
+    "aesthetic_regions": [
+      "cn",
+      "kr"
+    ],
+    "presentation": "feminine",
+    "reference_image": "",
+    "status": "needs_vetted_reference",
+    "maintenance_level": "medium",
+    "length": "short",
+    "bangs": "full",
+    "curl": "straight",
+    "volume": "low",
+    "side_weight": "medium",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "high",
+    "face_length_effect": "shortens",
+    "jaw_effect": "neutral",
+    "neck_balance": "neutral",
+    "temple_coverage": "high",
+    "silhouette_balance": "medium",
+    "trend_score": 0.74,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.22,
+      "face_ratio_tolerance": 0.09,
+      "forehead_to_face_ratio": 0.22,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.77,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.18,
+      "cheek_jaw_ratio_tolerance": 0.1,
+      "temple_skin_exposure": 0.58,
+      "temple_skin_tolerance": 0.16
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ]
+    },
+    "preferred_age_groups": [
+      "teen",
+      "young_adult",
+      "adult"
+    ],
+    "avoid_age_groups": [
+      "senior"
+    ],
+    "style_tags": [
+      "rejuvenating",
+      "cute",
+      "soft"
+    ],
+    "suited_face_shapes": [
+      "oblong",
+      "oval",
+      "heart"
+    ],
+    "preferred_hairline": [
+      "high",
+      "balanced"
+    ],
+    "avoid_hairline": [
+      "low"
+    ]
+  },
+  {
+    "id": "kr_air_curtain_layers",
+    "name": "韩系空气感八字层次",
+    "origin_label": "kr_support",
+    "aesthetic_regions": [
+      "kr",
+      "cn"
+    ],
+    "presentation": "feminine",
+    "reference_image": "",
+    "status": "needs_vetted_reference",
+    "maintenance_level": "high",
+    "length": "medium",
+    "bangs": "curtain",
+    "curl": "soft_wave",
+    "volume": "medium",
+    "side_weight": "medium",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "high",
+    "face_length_effect": "shortens",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "high",
+    "silhouette_balance": "high",
+    "trend_score": 0.88,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.2,
+      "face_ratio_tolerance": 0.09,
+      "forehead_to_face_ratio": 0.22,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.8,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.2,
+      "cheek_jaw_ratio_tolerance": 0.09,
+      "temple_skin_exposure": 0.6,
+      "temple_skin_tolerance": 0.16
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ]
+    },
+    "preferred_age_groups": [
+      "young_adult",
+      "adult"
+    ],
+    "avoid_age_groups": [
+      "senior"
+    ],
+    "style_tags": [
+      "korean",
+      "natural",
+      "soft",
+      "rejuvenating"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "oblong",
+      "heart",
+      "square"
+    ],
+    "preferred_hairline": [
+      "high",
+      "balanced"
+    ],
+    "avoid_hairline": []
+  },
+  {
+    "id": "kr_soft_textured_cover",
+    "name": "韩系柔和碎盖",
+    "origin_label": "kr_support",
+    "aesthetic_regions": [
+      "kr",
+      "cn"
+    ],
+    "presentation": "masculine",
+    "reference_image": "",
+    "status": "needs_vetted_reference",
+    "maintenance_level": "medium",
+    "length": "medium",
+    "bangs": "textured_fringe",
+    "curl": "soft_wave",
+    "volume": "medium",
+    "side_weight": "light",
+    "covers_forehead": true,
+    "forehead_exposure": "low",
+    "hairline_coverage": "high",
+    "face_length_effect": "shortens",
+    "jaw_effect": "softens",
+    "neck_balance": "slims",
+    "temple_coverage": "high",
+    "silhouette_balance": "high",
+    "trend_score": 0.9,
+    "ideal_profile": {
+      "face_ratio_h_w": 1.18,
+      "face_ratio_tolerance": 0.09,
+      "forehead_to_face_ratio": 0.21,
+      "forehead_ratio_tolerance": 0.05,
+      "jaw_face_ratio": 0.8,
+      "jaw_face_ratio_tolerance": 0.06,
+      "cheek_jaw_ratio": 1.21,
+      "cheek_jaw_ratio_tolerance": 0.09,
+      "temple_skin_exposure": 0.58,
+      "temple_skin_tolerance": 0.16
+    },
+    "preferred_personal_profiles": {
+      "face_length_profile": [
+        "balanced",
+        "long"
+      ],
+      "forehead_profile": [
+        "open",
+        "balanced"
+      ],
+      "recession_profile": [
+        "medium",
+        "strong"
+      ],
+      "jaw_profile": [
+        "balanced",
+        "strong"
+      ]
+    },
+    "preferred_age_groups": [
+      "young_adult",
+      "adult"
+    ],
+    "avoid_age_groups": [
+      "senior"
+    ],
+    "style_tags": [
+      "korean",
+      "soft",
+      "rejuvenating",
+      "clean"
+    ],
+    "suited_face_shapes": [
+      "oval",
+      "square",
+      "heart",
+      "oblong"
+    ],
+    "preferred_hairline": [
+      "high",
+      "balanced"
+    ],
+    "avoid_hairline": []
+  }
+]

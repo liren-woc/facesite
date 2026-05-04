@@ -1,0 +1,17 @@
+face_shape_hint,hairline_height_hint,face_ratio_h_w,forehead_to_face_ratio,presentation_preference,maintenance_preference,forehead_goal,preferred_style_tag,age_group,style_id,label
+oblong,high,1.42,0.33,masculine,medium,cover,mainstream,young_adult,cn_textured_curtain,1
+oblong,high,1.42,0.33,masculine,medium,cover,mainstream,young_adult,cn_natural_side_part,0
+oblong,high,1.42,0.33,masculine,low,cover,clean,adult,cn_short_textured_crop,1
+oblong,high,1.42,0.33,masculine,low,open,clean,adult,cn_textured_curtain,0
+square,balanced,1.18,0.24,masculine,medium,balance,clean,middle_aged,cn_natural_side_part,1
+square,balanced,1.18,0.24,masculine,medium,balance,clean,adult,kr_soft_textured_cover,1
+square,balanced,1.18,0.24,masculine,medium,open,clean,middle_aged,cn_full_bangs_bob,0
+round,balanced,1.08,0.23,feminine,medium,balance,soft,adult,cn_soft_face_framing,1
+round,balanced,1.08,0.23,feminine,high,cover,korean,young_adult,kr_air_curtain_layers,1
+round,balanced,1.08,0.23,feminine,medium,open,soft,senior,cn_full_bangs_bob,0
+heart,high,1.20,0.31,feminine,medium,cover,soft,young_adult,cn_full_bangs_bob,1
+heart,high,1.20,0.31,feminine,medium,cover,soft,adult,cn_soft_face_framing,0
+oval,low,1.22,0.16,masculine,low,open,workplace,senior,cn_natural_side_part,1
+oval,low,1.22,0.16,masculine,low,open,workplace,senior,cn_textured_curtain,0
+oval,balanced,1.24,0.20,feminine,medium,balance,mature,middle_aged,cn_soft_face_framing,1
+oval,balanced,1.24,0.20,feminine,medium,balance,mature,young_adult,kr_air_curtain_layers,0

@@ -1,0 +1,1 @@
+/mnt/d/models/stable-diffusion-v1-5

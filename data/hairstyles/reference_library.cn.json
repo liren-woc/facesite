@@ -1,0 +1,64 @@
+{
+  "library_id": "china_first_reference_v2",
+  "title": "中国审美优先参考库",
+  "description": "从项目参考池中提升为可直接用于 front-only 生成的正式参考图。",
+  "source_policy": {
+    "provider": "mixed_public_reference_pool",
+    "license_name": "User curated reference pool",
+    "license_url": ""
+  },
+  "entries": [
+    {
+      "style_id": "cn_light_textured_fringe",
+      "name": "中式轻碎刘海",
+      "status": "vetted_v1",
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "tiger_head_textured_crop",
+      "source_path": "data/hairstyles/references/cn_light_textured_fringe/front.png",
+      "prepared_path": "data/hairstyles/references/cn_light_textured_fringe/prepared.jpg",
+      "review_notes": [
+        "Promoted from reference_pool into generation-ready library.",
+        "Source credit: 小红书 @雪碧Msa"
+      ]
+    },
+    {
+      "style_id": "cn_short_textured_crop",
+      "name": "中式短碎盖",
+      "status": "vetted_v1",
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "short_textured_crop",
+      "source_path": "data/hairstyles/references/cn_short_textured_crop/front.png",
+      "prepared_path": "data/hairstyles/references/cn_short_textured_crop/prepared.jpg",
+      "review_notes": [
+        "Promoted from reference_pool into generation-ready library.",
+        "Source credit: 小红书 @发匠Tony设计"
+      ]
+    },
+    {
+      "style_id": "cn_textured_curtain",
+      "name": "中式轻纹理八字刘海",
+      "status": "vetted_v1",
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "bracket_bangs",
+      "source_path": "data/hairstyles/references/cn_textured_curtain/front.png",
+      "prepared_path": "data/hairstyles/references/cn_textured_curtain/prepared.jpg",
+      "review_notes": [
+        "Promoted from reference_pool into generation-ready library.",
+        "Source credit: 小红书 @isolliver"
+      ]
+    },
+    {
+      "style_id": "cn_natural_side_part",
+      "name": "中式自然三七分",
+      "status": "vetted_v1",
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "three_seven_side_part",
+      "source_path": "data/hairstyles/references/cn_natural_side_part/front.png",
+      "prepared_path": "data/hairstyles/references/cn_natural_side_part/prepared.jpg",
+      "review_notes": [
+        "Promoted from reference_pool into generation-ready library.",
+        "Source credit: 微博"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "library_id": "china_first_reference_v2",
+  "title": "中国审美优先参考库",
+  "description": "从项目参考池中提升为可直接用于 front-only 生成的正式参考图。",
+  "source_policy": {
+    "provider": "mixed_public_reference_pool",
+    "license_name": "User curated reference pool",
+    "license_url": ""
+  },
+  "activations": [
+    {
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "tiger_head_textured_crop",
+      "style_id": "cn_light_textured_fringe",
+      "display_name": "中式轻碎刘海",
+      "min_blur_score": 10.0
+    },
+    {
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "short_textured_crop",
+      "style_id": "cn_short_textured_crop",
+      "display_name": "中式短碎盖",
+      "min_blur_score": 3.5
+    },
+    {
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "bracket_bangs",
+      "style_id": "cn_textured_curtain",
+      "display_name": "中式轻纹理八字刘海",
+      "min_blur_score": 45.0
+    },
+    {
+      "source_manifest": "data/hairstyles/reference_candidates/girlstyle_my_men_2025/manifest.json",
+      "source_slug": "three_seven_side_part",
+      "style_id": "cn_natural_side_part",
+      "display_name": "中式自然三七分",
+      "min_blur_score": 15.0
+    }
+  ]
+}

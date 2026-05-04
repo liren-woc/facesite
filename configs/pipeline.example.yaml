@@ -1,0 +1,16 @@
+project_root: /data/coding/face_shape_project
+
+analysis:
+  backend: mediapipe_face_mesh
+  min_detection_confidence: 0.5
+  max_num_faces: 1
+
+generation:
+  backend: stable_hair
+  generator_repo: third_party/Stable-Hair
+  generator_python: wsl://Ubuntu
+  output_dir: outputs/tryon
+
+recommendation:
+  catalog_path: data/hairstyles/catalog.example.json
+  top_k: 5
